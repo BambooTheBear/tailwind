@@ -7,7 +7,7 @@
                 class="w-full h-52 bg-slate-600 rounded-3xl hover:bg-gradient-to-r hover:to-slate-700 hover:from-gray-700 hover:scale-105 flex items-center hover:text-red-600 text-slate-200">
                 <img src="../assets/css3.png" class="h-full">
                 <p class="text-3xl">CSS sucks. Css is unintuitive. Css Naming is hard. Css types are weird. Css
-                    is no fun.</p>
+                    is no fun. </p>
             </div>
             <div class="grid grid-cols-3 items-center p-12">
                 <div class="block p-6 bg-slate-700 border rounded-lg shadow-white m-8 h-full">
